@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary_text">#2E7D32</color> <!-- Verde escuro -->
+    <color name="secondary_text">#66BB6A</color> <!-- Verde claro -->
+    <color name="button_background">#43A047</color> <!-- Verde médio -->
+    <color name="background_color">#F1F8E9</color> <!-- Fundo quase branco com tom verde -->
+
+</resources>
